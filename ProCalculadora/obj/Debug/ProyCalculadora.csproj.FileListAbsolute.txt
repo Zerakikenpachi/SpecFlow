@@ -1,0 +1,5 @@
+D:\Semestre 2019-1\Calidad de Software\Calidad\Tutorial\ProCalculadora\bin\Debug\Calculadora.dll
+D:\Semestre 2019-1\Calidad de Software\Calidad\Tutorial\ProCalculadora\bin\Debug\Calculadora.pdb
+D:\Semestre 2019-1\Calidad de Software\Calidad\Tutorial\ProCalculadora\obj\Debug\ProyCalculadora.csprojAssemblyReference.cache
+D:\Semestre 2019-1\Calidad de Software\Calidad\Tutorial\ProCalculadora\obj\Debug\Calculadora.dll
+D:\Semestre 2019-1\Calidad de Software\Calidad\Tutorial\ProCalculadora\obj\Debug\Calculadora.pdb
